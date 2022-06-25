@@ -4,9 +4,8 @@ import Code from './components/Code.vue'
 </script>
 
 <template>
-  <h1>.reg Generator</h1>
-  <h2>Add actions in context menu easily :)</h2>
-  <p>Add <strong>Open folder as ... project</strong> and <strong>Edit with ...</strong>.</p>
+  <h1>RGstry - .reg Generator</h1>
+  <p>Add <strong>Open folder as ... project</strong> and <strong>Edit with ...</strong> in context menu.</p>
 
   <Form/>
   <Code/>
