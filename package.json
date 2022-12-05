@@ -9,7 +9,7 @@
   "dependencies": {
     "sass": "^1.45.2",
     "vue": "^3.2.25",
-    "vue-toast-notification": "3.0",
+    "vue-toast-notification": "3.0.4",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
