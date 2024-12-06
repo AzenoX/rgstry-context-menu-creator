@@ -10,7 +10,7 @@
     "sass": "^1.79.0",
     "vue": "^3.3.5",
     "vue-toast-notification": "3.0",
-    "vuex": "^4.0.2"
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.0.0",
